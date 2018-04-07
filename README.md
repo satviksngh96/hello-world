@@ -1,2 +1,2 @@
 # hello-world
-First time out int the world of programmers
+First time out in the world of programmers
